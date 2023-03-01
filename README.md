@@ -37,7 +37,7 @@ cinémas de Strasbourg.
 
 - Installer le repository dans un fichier sur son ordinateur
 - Ouvrir le Windows Terminal : touches ```Windows + R``` puis écrire ```wt```
-- Sélectionner le fichier d'installation (_exemple : téléchargement sur le bureau_ : taper ```cd desktop``` puis ```cd Projet_Salles_PEGE```)
+- Sélectionner le fichier d'installation (_exemple : téléchargement sur le bureau_ : taper ```cd desktop``` puis ```cd Projet_Cinema_Helper```)
 - Télécharger les packages : taper ```pip install -r requirements.txt```
 - Lancer le programme : taper ```python main.py``` 
 - Suivre les instructions sur le Windows Terminal
