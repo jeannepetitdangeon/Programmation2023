@@ -17,9 +17,8 @@ montrant tous les films disponibles à une heure précise de la journée, dans tous
 cinémas de Strasbourg. 
 
 ## Structure
-- Dans [Slides Cinema Helper](#slide cinema helper), vous trouverez la présentation de notre programme
-- Dans [Selenium + BS](#selenium + BS), vous trouverez notre code
-- Le fichier [nom](nom) permet d'importer en une fois l'ensemble des packages nécessaires 
+- Dans [Slides Cinema Helper](https://github.com/janoudetp/Programmation2023/blob/main/Slides%20Cinema%20Helper.Rmd), vous trouverez la présentation de notre programme
+- Dans [Selenium + BS](https://github.com/janoudetp/Programmation2023/blob/main/Selenium%20%2B%20BS.py), vous trouverez notre code
 
 ## Pré-requis
 
