@@ -36,31 +36,31 @@ Il est essentiel pour faire fonctionner le programme d'avoir acces a un environn
 
 ------------------------------------------------------------------------
 
-![](1.png)
+![](Images%20diapo/1.png)
 
 ------------------------------------------------------------------------
 
-![](2.png)
+![](Images%20diapo/2.png)
 
 ------------------------------------------------------------------------
 
-![](3.png)
+![](Images%20diapo/3.png)
 
 ------------------------------------------------------------------------
 
-![](4.png)
+![](Images%20diapo/4.png)
 
 ------------------------------------------------------------------------
 
-![](5.png)
+![](Images%20diapo/5.png)
 
 ------------------------------------------------------------------------
 
-![](6.png)
+![](Images%20diapo/6.png)
 
 ------------------------------------------------------------------------
 
-![](7.png)
+![](Images%20diapo/7.png)
 
 ## DIFFICULTES
 
@@ -69,8 +69,9 @@ Il est essentiel pour faire fonctionner le programme d'avoir acces a un environn
 -   Difficile de matcher les horaires, les vf, les vo et les noms
 
 ## FONCTIONS NON UTILISEES
+![](Images%20diapo/8.png)
 
-## ![](8.png)COMMENT SE SIMPLIFIER LA VIE
+## COMMENT SE SIMPLIFIER LA VIE
 
 -   Si nous avions commence avec Selenium directement !
 
