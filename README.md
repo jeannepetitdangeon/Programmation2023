@@ -1,5 +1,5 @@
 # Programmation2023
-# Projet Cinema Helper 
+# Projet Movie Day
 
 ## Table des matières 
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-Le projet Movie day a pour objectif d'aider les cinephiles lorsqu'ils souhaitent aller au cinema dans la journee.
+Le projet *Movie day* a pour objectif d'aider les cinephiles lorsqu'ils souhaitent aller au cinema dans la journee.
 
 Il suffit d'indiquer au programme quel est le cinema de Strasbourg que vous preferez et le jour que vous voulez consacrer en "Movie Day" et le programme vous indiquera tous les films de la journee, en VO et en VF ainsi que leurs differentes seances.
 
@@ -33,7 +33,7 @@ Il est essentiel pour faire fonctionner le programme d'avoir acces a un environn
 ## Installation
 
 - Installer le repository dans un fichier sur son ordinateur
-- Lancer le programme ```Projet FINAL``` sur un terminal lisant Python  
+- Lancer ```Programme``` sur un terminal lisant Python  
 
 ## Technologie
 
