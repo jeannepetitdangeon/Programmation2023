@@ -12,14 +12,17 @@
 
 ## Description
 
-Le projet Cinema helper a pour objet de faciliter la vie des cinéphiles en leur 
-montrant tous les films disponibles à une heure précise de la journée, dans tous 
-cinémas de Strasbourg. 
-Nous partons du principe qu'un cinéphile a envie d'aller au cinéma à un moment précis et qu'il aura besoin de savoir quels sont les films disponibles à cet instant t. 
+Le projet Movie day a pour objectif d'aider les cinephiles lorsqu'ils souhaitent aller au cinema dans la journee.
+
+Il suffit d'indiquer au programme quel est le cinema de Strasbourg que vous preferez et le jour que vous voulez consacrer en "Movie Day" et le programme vous indiquera tous les films de la journee, en VO et en VF ainsi que leurs differentes seances.
+
+Vous pourrez finalement, dans un temps reduit, faire votre choix entre toutes les seances qui s'affichent sur votre terminal.
+
+Il est essentiel pour faire fonctionner le programme d'avoir acces a un environnement qui peut lire du python et d'avoir un navigateur base sur Chromium.
 
 ## Structure
-- Dans [Slides Cinema Helper](https://github.com/janoudetp/Programmation2023/blob/main/Slides%20Cinema%20Helper.Rmd), vous trouverez la présentation de notre programme et l'explication du code.
-- Dans [Selenium + BS](https://github.com/janoudetp/Programmation2023/blob/main/Selenium%20%2B%20BS.py), vous trouverez notre code. 
+- Dans [Slides](https://github.com/janoudetp/Programmation2023/blob/main/Slides.Rmd), vous trouverez la présentation de notre programme et l'explication du code.
+- Dans [Programme](https://github.com/janoudetp/Programmation2023/blob/main/Programme.ipynb), vous trouverez notre code. 
 
 ## Pré-requis
 
@@ -35,6 +38,8 @@ Nous partons du principe qu'un cinéphile a envie d'aller au cinéma à un moment p
 ## Technologie
 
 - [Selenium](https://www.selenium.dev/documentation/)
+
+Selenium permet d'interagir avec différents navigateurs web tel que Google Chrome grâce au chromedriver notamment. Il entre dans la catégorie des outils de test dynamique.
 
 ## Auteurs
 
