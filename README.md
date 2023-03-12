@@ -17,8 +17,8 @@ montrant tous les films disponibles à une heure précise de la journée, dans tous
 cinémas de Strasbourg. 
 
 ## Structure
-- Dans [nom du dossier](nom) vous retrouverez le script principal de notre programme
-- Dans [nom du dossier](nom) vous retrouverez l'intégralité des fonctions utilisées
+- Dans [Slides Cinema Helper](#slide cinema helper), vous trouverez la présentation de notre programme
+- Dans [Selenium + BS](#selenium + BS), vous trouverez notre code
 - Le fichier [nom](nom) permet d'importer en une fois l'ensemble des packages nécessaires 
 
 ## Pré-requis
