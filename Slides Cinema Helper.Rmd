@@ -12,27 +12,33 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Marc FROELICH
 
-AndrÃ© MIRANDA
+André MIRANDA
 
 Jeanne PETIT-DANGEON
 
-## R Markdown
+## Table des matières
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+-   Description du projet
+-   Explication du code
+-   Difficultés
+-   Comment se simplifier la vie ?
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
-
-## Slide with Bullets
-
--   Bullet 1
--   Bullet 2
--   Bullet 3
-
-## Slide with R Output
+## DESCRIPTION
 
 ```{r cars, echo = TRUE}
 summary(cars)
 ```
+
+
+## Explication du code 
+
+*** 
+Screen du code concerné ***
+
+## Difficultés 
+
+
+## Comment se simplifier la vie ? 
 
 ## Slide with Plot
 
