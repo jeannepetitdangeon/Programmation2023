@@ -7,7 +7,7 @@
 - [Structure du projet](#structure)
 - [Pré-requis](#pré-requis)
 - [Installation](#installation)
-- [Technologies](#technologies)
+- [Technologie](#technologie)
 - [Auteurs](#auteurs)
 
 ## Description
@@ -26,7 +26,7 @@ cinémas de Strasbourg.
 1. Un ordinateur sous Windows
 2. [Python](https://www.python.org/downloads/)
 3. Installer [Windows Terminal](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab)
-4. Posséder un navigateur basé sur Chromium _exemple_: Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi
+4. Posséder un navigateur basé sur Chromium
 
 ## Installation
 
@@ -37,7 +37,7 @@ cinémas de Strasbourg.
 - Lancer le programme : taper ```python main.py``` 
 - Suivre les instructions sur le Windows Terminal
 
-## Technologies
+## Technologie
 
 - [Selenium](https://www.selenium.dev/documentation/)
 
