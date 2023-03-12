@@ -23,19 +23,14 @@ Nous partons du principe qu'un cinéphile a envie d'aller au cinéma à un moment p
 
 ## Pré-requis
 
-1. Un ordinateur sous Windows
-2. [Python](https://www.python.org/downloads/)
-3. Installer [Windows Terminal](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab)
-4. Posséder un navigateur basé sur Chromium
+1. Un ordinateur sous Windows ou macOS
+2. [Python](https://www.python.org/downloads/) ou un environnement qui lit Python. 
+3. Posséder un navigateur basé sur Chromium
 
 ## Installation
 
 - Installer le repository dans un fichier sur son ordinateur
-- Ouvrir le Windows Terminal : touches ```Windows + R``` puis écrire ```wt```
-- Sélectionner le fichier d'installation (_exemple : téléchargement sur le bureau_ : taper ```cd desktop``` puis ```cd Projet_Cinema_Helper```)
-- Télécharger les packages : taper ```pip install -r requirements.txt```
-- Lancer le programme : taper ```python main.py``` 
-- Suivre les instructions sur le Windows Terminal
+- Lancer le programme ```Projet FINAL``` sur un terminal lisant Python  
 
 ## Technologie
 
