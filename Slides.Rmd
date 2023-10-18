@@ -69,24 +69,21 @@ Il est essentiel pour faire fonctionner le programme d'avoir acces a un environn
 -   Difficile de matcher les horaires, les vf, les vo et les noms
 
 ## FONCTIONS NON UTILISEES
-![](Images%20diapo/8.png)
+
+## ![](Images%20diapo/8.png)
 
 ## COMMENT SE SIMPLIFIER LA VIE
 
 -   Si nous avions commence avec Selenium directement !
 
--   Tourner le programme differemment differemment, avec par exemple la demande d'une heure précise dans un cinema et l'affichage de tous les films qui passent à cette heure-ci.
-
-------------------------------------------------------------------------
+-   Tourner le programme differemment, avec par exemple la demande d'une heure precise dans un cinema et l'affichage de tous les films qui passent a cette heure-ci.
 
 ## AUTEURS
 
-Marc FROELICH - M1 SE
+Marc FROEHLICH - M1 SE
 
 Andre MIRANDA - M1 SE
 
 Jeanne PETIT-DANGEON - M1 DS2E
-
-------------------------------------------------------------------------
 
 # **REMERCIEMENTS**
